@@ -1,5 +1,8 @@
 ### Project Overview: Sunset Travel – A Senior-Friendly Travel App
 
+#### 🔗 Interactive Demo  👉 [View the Sunset Travel interactive prototype](https://www.figma.com/proto/tfDTMCU6H5HDU252h8YQwm/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B?page-id=0%3A1&node-id=1-14&viewport=4058%2C545%2C1&scaling=min-zoom&starting-point-node-id=1%3A14&show-proto-sidebar=1)
+
+
 Amid the rapid rise of the digital age, elderly users are actively embracing online life but continue to face a significant digital divide. Slower post-retirement lifestyles and reduced social interaction often lead to feelings of emptiness and lack of purpose. As a result, many senior users seek a “spiritual refuge” and aspire to stay connected with mainstream society.
 
 This project explores the feasibility and necessity of a travel app designed specifically for the elderly by identifying common pain points they encounter when using mobile applications. The work completed includes:  
